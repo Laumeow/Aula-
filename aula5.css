@@ -1,0 +1,32 @@
+h1 {
+    color: rebeccapurple;
+}
+h2 {
+    color:blueviolet
+}
+/*layout celular*/
+@media(max-width:450px){
+    h1 {
+        color:bisque
+        bacgr
+    }
+    body {
+        background-color: black;
+    }
+    h2 {
+        color:cornflowerblue;
+    }
+}
+
+/*layout tablet*/
+@media(min-width:768px) and (max-width:1024px){
+    h1{
+        color:darkblue;
+    }
+    h2{
+        color:aqua;
+    }
+    body{
+        
+    }
+}
